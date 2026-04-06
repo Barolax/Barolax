@@ -40,7 +40,7 @@ Open to internships in **industrial data**, **healthcare data**, or **smart city
 
 **Cloud & Storage**  
 ![GCP](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=58a6ff)
-![AWS](https://img.shields.io/badge/AWS_(learning)-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58a6ff)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=58a6ff)
 ![BigQuery](https://img.shields.io/badge/BigQuery-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=d4a853)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58a6ff)
 
