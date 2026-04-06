@@ -79,10 +79,11 @@ Open to internships in **industrial data**, **healthcare data**, or **smart city
 
 ---
 
-### 🏙️ Airbnb MongoDB Analysis
-> Distributed database architecture on Paris & Lyon Airbnb data
+### 🤖 [Puls Events RAG Chatbot](https://github.com/Barolax/Puls-Events-RAG-Chatbot)
+> Intelligent chatbot for discovering cultural events in Lille — powered by RAG
 
-**Stack :** MongoDB · Replica Sets · Sharding · Geographic zone distribution · Tableau Public
+**Stack :** Python · LangChain · Mistral AI · FAISS · Streamlit · Open Agenda API  
+**Highlights :** 611 vectorized documents · Conversational memory · 93.3% evaluation score (14/15)
 
 ---
 ## 🔧 Currently Working On
