@@ -94,7 +94,7 @@ Open to internships in **industrial data**, **healthcare data**, or **smart city
 
 <div align="center">
 
-![Axelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barolax&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=d4a853&text_color=e6edf3)
+![Axelle's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Barolax&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=d4a853&text_color=e6edf3)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barolax&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
 
