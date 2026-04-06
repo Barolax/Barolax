@@ -84,16 +84,14 @@ Open to internships in **industrial data**, **healthcare data**, or **smart city
 **Stack :** MongoDB · Replica Sets · Sharding · Geographic zone distribution · Tableau Public
 
 ---
-
 ## 🔧 Currently Working On
 
-```python
 current_focus = {
-    "project"   : "Cloud infrastructure modelling with RedPanda",
-    "learning"  : ["Event-driven architectures", "Streaming pipelines"],
-    "goal"      : "Data Engineering internship — industry | healthcare | smart city"
+    "project"   : "Sport Data Solution — end-to-end ETL pipeline",
+    "stack"     : ["Airflow", "GCP", "BigQuery", "dbt", "PySpark", "Streamlit"],
+    "learning"  : ["Medallion Architecture", "Data Quality with Great Expectations"],
+    "goal"      : "Data Engineering internship"
 }
-```
 
 ---
 
