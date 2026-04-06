@@ -97,20 +97,6 @@ current_focus = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Axelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barolax&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=d4a853&text_color=e6edf3)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barolax&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Barolax&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=d4a853&fire=d4a853&currStreakLabel=58a6ff)
-
-</div>
-
----
-
 ## 📬 Contact
 
 <div align="center">
