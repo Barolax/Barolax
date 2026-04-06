@@ -85,14 +85,14 @@ Open to internships in **industrial data**, **healthcare data**, or **smart city
 
 ---
 ## 🔧 Currently Working On
-
+```python
 current_focus = {
-    "project"   : "Sport Data Solution — end-to-end ETL pipeline",
+    "project"   : "Sport Data Solution — end-to-end ETL pipeline (real-world POC)",
     "stack"     : ["Airflow", "GCP", "BigQuery", "dbt", "PySpark", "Streamlit"],
     "learning"  : ["Medallion Architecture", "Data Quality with Great Expectations"],
-    "goal"      : "Data Engineering internship"
+    "goal"      : "Data Engineering internship — industry | healthcare | smart city"
 }
-
+```
 ---
 
 ## 📬 Contact
