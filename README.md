@@ -87,13 +87,6 @@ Open to internships in **industrial data**, **healthcare data**, or **smart city
 
 ## 🔧 Currently Working On
 
-```python
-current_focus = {
-    "project"   : "Cloud infrastructure modelling with RedPanda",
-    "learning"  : ["Event-driven architectures", "Streaming pipelines"],
-    "goal"      : "Data Engineering internship — industry | healthcare | smart city"
-}
-```
 
 ---
 
